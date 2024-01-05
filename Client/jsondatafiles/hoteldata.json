@@ -1,0 +1,68 @@
+[
+    {
+        "image" : "../assets/hotels/aman-residency.webp",
+        "name": "Aman Residency ",
+        "stars":"3",
+        "price":"2660 "
+    },
+    {
+        "image" : "../assets/hotels/galaxy.webp",
+        "name": "Galaxy",
+        "stars":"3",
+        "price":"3335 "
+    },
+    {
+        "image" : "../assets/hotels/hira-inn.webp",
+        "name": "Hira Inn",
+        "stars":"3",
+        "price":"3921 "
+    },
+    {
+        "image" : "../assets/hotels/le-leisure.webp",
+        "name": "Le-Leisure",
+        "stars":"3",
+        "price":"1950 "
+    },
+    {
+        "image" : "../assets/hotels/max.webp",
+        "name": "Max Residency",
+        "stars":"4",
+        "price":"3038 "
+    },
+    {
+        "image" : "../assets/hotels/oyo.jpg",
+        "name": "Oyo Makeshift",
+        "stars":"2",
+        "price":"1580 "
+    },
+    {
+        "image" : "../assets/hotels/ravisha-continental.webp",
+        "name": "The Continental",
+        "stars":"5",
+        "price":"12000 "
+    },
+    {
+        "image" : "../assets/hotels/shree-kanha.webp",
+        "name": "Shree Kanha",
+        "stars":"4",
+        "price":"4553 "
+    },
+    {
+        "image" : "../assets/hotels/vitthal.webp",
+        "name": "Vitthal Group",
+        "stars":"3",
+        "price":"2287 "
+    },
+    {
+        "image" : "../assets/hotels/welcome-heritage.webp",
+        "name": "Welcome Heritage",
+        "stars":"4",
+        "price":"5881 "
+    },
+    {
+        "image" : "../assets/hotels/kanha-shyam.webp",
+        "name": "Kanha Shyam",
+        "stars":"3",
+        "price":"2842 "
+    }
+]

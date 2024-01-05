@@ -1,0 +1,52 @@
+[
+    {
+        "name":"Patalpuri Temple",
+        "image":"../assets/places/patalpuri-temple.webp",
+        "description":"Patalpuri Temple, a subterranean shrine in the Allahabad Fort, was first discovered by the Chinese traveler named Huan Tsung."
+},
+{
+    "name":"Sangam",
+    "image":"../assets/places/sangam.webp",
+    "description":"One of the holiest destinations of India where the three rivers of Ganges, Yamuna and Saraswati meet, Triveni Sangam is a popular tourist attraction in Prayagraj, Allahabad."
+},{
+    "name":"Allahabad Fort",
+    "image":"../assets/places/allahabad-fort1.webp",
+    "description":"Standing tall since 1583 in the city of Allahabad on the banks of river Yamuna near its confluence with the holy river Ganga is a monument which was built by Mughal emperor named as Allahabad Fort."
+},{
+    "name":"Ashoka Pillars",
+    "image":"../assets/places/ashok-pillor.webp",
+    "description":"Beautifully standing 10.7 metre high, this famous attraction is one of the many Ashoka Pillars located in the ancient fort of Allahabad."
+},{
+    "name":"Shankar Viman",
+    "image":"../assets/places/shankar-viman-mandapam.webp",
+    "description":"Situated in the holy city of India, Allahabad, Shankar Viman Mandapam is a temple that is 130 feet high and consists of 4 floors."
+},{
+    "name":"Hanuman Mandir",
+    "image":"../assets/places/hanuman-mandir.webp",
+    "description":"One of the major tourist attractions for spiritually enlightene souls, Hanuman Mandir in Allahabad , is renowned for the resting idol of Lord Hanuman. "
+},{
+    "name":"Minto Park",
+    "image":"../assets/places/minto-park.webp",
+    "description":" Minto Park is set on the banks of river Yamuna and is famous as Earl of Minto read the declaration of Queen Victoria's Proclamation."
+},{
+    "name":"Mankameshwar Temple",
+    "image":"../assets/places/mankameshwar-temple.webp",
+    "description":" Mankameshwar Temple is situated in the Cantonment area of Allahabad on the edge of Yamuna River."
+},{
+    "name":"Ganga Gallery",
+    "image":"../assets/places/ganga-gallery.webp",
+    "description":"Amongst the many art galleries in Allahabad, Ganga Gallery is an ideal tourist spot to spread awareness about the conservation of the holy river Ganga."
+},{
+    "name":"Swaraj Bhawan",
+    "image":"../assets/places/swaraj-bhawan-1.webp",
+    "description":"Swaraj Bhawan which was once a property of the Nehru family has now become a tourist spot in Allahabad. This humongous mansion was previously known as Anand Bhawan."
+},{
+    "name":"Anand Bhawan",
+    "image":"../assets/places/anand-bhawan.webp",
+    "description":"Earlier the residence of Nehru family and now a museum, Anand Bhavan feature various artefacts and articles of the period of Independence movement in India."
+},{
+    "name":"Allahabad University",
+    "image":"../assets/places/allahabad-university.webp",
+    "description":"The public central university, which is informally known as Allahabad University is one of the oldest in India. It is a popular institution which sees a lot of aspirants every year."
+}
+]

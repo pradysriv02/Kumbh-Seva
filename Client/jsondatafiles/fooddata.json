@@ -1,0 +1,75 @@
+ [
+  {
+    "image": "../assets/foods/elchico.jpeg",
+    "name": "El-Chico",
+    "type": "NonVeg",
+    "address": "142, 2nd Floor 142, 32, Mahatma Gandhi Marg, Civil Lines",
+    "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/hudson.jpg",
+    "name": "Hudson ",
+    "type": "NonVeg",
+    "address": "54C/23, P.D. TANDON ROAD ,Nagar Nigam Food Safety Zone-12",
+    "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/aryans.jpg",
+    "name": "Aryan's ",
+    "type": "NonVeg",
+    "address":
+      "Ground Floor, Vinayak City Centre, Sardar Patel Marg, Civil Lines",
+      "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/paradise.jpg",
+    "name": "Paradise",
+    "type": "Veg",
+    "address": " 35, Mahatma Gandhi Marg, Civil Lines",
+    "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/park-view.jpg",
+    "name": "Park View",
+    "type": "Veg",
+    "address": "Minto Park, Naini",
+    "stars" :"4"
+  },
+  {
+    "image": "../assets/foods/eden.jpg",  
+    "name": "EDEN",
+    "type": "Veg",
+    "address": "Hotel Samrat in Civil Lines area",
+    "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/eat-on.webp",    
+    "name": "Eat-On",
+    "type": "Veg",
+    "address": "Civil Lines Area, MG Road",
+    "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/coffee.jpg",
+    "name": "Indian Coffee House",
+    "type": "Veg",
+    "address": "45, Mahatma Gandhi Marg, Civil Lines",
+    "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/netram.jpg",    
+    "name": "Netram",
+    "type": "NonVeg",
+    "address": "142, 2nd Floor 142, 32, Netram Chauraha",
+    "stars" : "4"
+  },
+  {
+    "image": "../assets/foods/tamarind-tree.jpg",
+    "name": "The Tamarind Tree",
+    "type": "Veg",
+    "address": "150, 3rd Floor, Civil Lines",
+    "stars" : "4"
+  }
+]
+
+

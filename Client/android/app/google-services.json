@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "323216197118",
+    "project_id": "kumbh-guide",
+    "storage_bucket": "kumbh-guide.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:323216197118:android:f418862d4df298251decaf",
+        "android_client_info": {
+          "package_name": "com.anonymous.Kumbh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtLcB7MHsm6MKcFBH_aD1mgi7eaYsCRk0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
