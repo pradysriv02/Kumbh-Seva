@@ -17,7 +17,9 @@ The Kumbh Seva app simplifies the process of managing and accessing various serv
 - **User Authentication**: Secure login and authentication using Firebase Authentication.
 - <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/e969567c-9c91-4a71-b27d-b04ca9d5bffd" width="300" height="600"> <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/e2a92ddc-d340-4e6e-bc46-9b2dda4a5662" width="300" height="600">
 - **Browse for Details on Hotels,Restaurants,etc.**: The app covers various hotels and restaurants across Prayagraj to help pilgrims find a suitable place to eat and stay.
-- <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/77373747-8dad-4eb1-9581-90762818f102" width="300" height="600">
+- <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/77373747-8dad-4eb1-9581-90762818f102" width="300" height="600">  <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/caa2f2cc-8cd8-4c44-b325-6110855af6ea" width="300" height="600">  <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/51e340cc-6634-4fbf-bce5-90a9c2253bf3" width="300" height="600">  
+
+
 
 
 ## Installation
