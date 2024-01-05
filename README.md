@@ -24,7 +24,7 @@ The Kumbh Seva app simplifies the process of managing and accessing various serv
 
 ## Installation
 
-To run the Kumbh Seva app locally, follow these stephttps://github.com/pradysriv02/Kumbh-Seva/assets/116811317/77373747-8dad-4eb1-9581-90762818f102s:
+To run the Kumbh Seva app locally, follow these steps:
 
 1. Clone this repository.
 2. Install dependencies using `npm install` or `yarn install`.
