@@ -7,7 +7,7 @@ Kumbh Seva is a mobile application aimed at facilitating seamless and efficient 
 
 ## Introduction
 
-The Kumbh Seva app simplifies the process of managing and accessing various services during the Kumbh Mela, providing a user-friendly interface for pilgrims. It leverages the power of React Native for cross-platform compatibility, Firebase for real-time data management, and Razorpay for secure payment processing.
+The Kumbh Seva app simplifies the process of managing and accessing various services during the Kumbh Mela, providing a user-friendly interface for pilgrims. It leverages the power of React Native for cross-platform compatibility, Firebase for real-time data management, and Razorpay for secure payment processing,Redux for user state management.
 
 ## Features
 
