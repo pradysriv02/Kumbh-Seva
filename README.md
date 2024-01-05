@@ -27,14 +27,7 @@ To run the Kumbh Seva app locally, follow these steps:
 4. Set up Razorpay and integrate the API keys.
 5. Run the app using `npm start` or `yarn start`.
 
-## Usage
 
-Once the app is running, users can:
-
-- Sign up or log in to their accounts.
-- Browse available services and make bookings.
-- View their booking history and payment details.
-- Administrators can log in to the dashboard to manage bookings and services.
 
 ## Technologies Used
 
