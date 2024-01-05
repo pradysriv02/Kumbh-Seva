@@ -15,12 +15,13 @@ The Kumbh Seva app simplifies the process of managing and accessing various serv
 - **Secure Payments**: Integration with Razorpay ensures secure and hassle-free payment processing for booked services.
 - **User Authentication**: Secure login and authentication using Firebase Authentication.
 - <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/e969567c-9c91-4a71-b27d-b04ca9d5bffd" width="300" height="600"> <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/e2a92ddc-d340-4e6e-bc46-9b2dda4a5662" width="300" height="600">
-- **Browse for Details on Hotels,Restaurants,etc.**: The app covers various hotels and restaurants across Prayagraj to help pilgrims find a suitable place to eat and stay. 
+- **Browse for Details on Hotels,Restaurants,etc.**: The app covers various hotels and restaurants across Prayagraj to help pilgrims find a suitable place to eat and stay.
+- <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/77373747-8dad-4eb1-9581-90762818f102" width="300" height="600">
 
 
 ## Installation
 
-To run the Kumbh Seva app locally, follow these steps:
+To run the Kumbh Seva app locally, follow these stephttps://github.com/pradysriv02/Kumbh-Seva/assets/116811317/77373747-8dad-4eb1-9581-90762818f102s:
 
 1. Clone this repository.
 2. Install dependencies using `npm install` or `yarn install`.
