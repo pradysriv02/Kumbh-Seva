@@ -40,4 +40,4 @@ To run the Kumbh Seva app locally, follow these steps:
 
 ---
 
-Feel free to customize this README with specific instructions, additional sections, or any other relevant information based on the intricacies and functionalities of your Kumbh Seva app!
+
