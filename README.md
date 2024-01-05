@@ -12,6 +12,7 @@ The Kumbh Seva app simplifies the process of managing and accessing various serv
 ## Features
 
 - **Guide Booking**: Users can book guides offering services during the Kumbh Mela to help pilgrims through their visit.
+- <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/95e46ec7-3a2d-471b-8d9c-f20ecc9ccf71" width="300" height="600">   <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/1b66fcfb-12cd-4277-b348-2f211b4bf045" width="300" height="600">
 - **Secure Payments**: Integration with Razorpay ensures secure and hassle-free payment processing for booked services.
 - **User Authentication**: Secure login and authentication using Firebase Authentication.
 - <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/e969567c-9c91-4a71-b27d-b04ca9d5bffd" width="300" height="600"> <img src="https://github.com/pradysriv02/Kumbh-Seva/assets/116811317/e2a92ddc-d340-4e6e-bc46-9b2dda4a5662" width="300" height="600">
