@@ -1,4 +1,3 @@
-Certainly! Here's a template for a README file for your GitHub repository for the "Kumbh Seva" project using React Native, Firebase, and Razorpay:
 
 ---
 
